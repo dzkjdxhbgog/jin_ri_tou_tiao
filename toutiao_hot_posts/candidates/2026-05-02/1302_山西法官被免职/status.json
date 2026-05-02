@@ -1,0 +1,15 @@
+{
+  "status": "candidate_pending_review",
+  "created_at": "2026-05-02 13:02:24 +0800",
+  "updated_at": "2026-05-02 13:32:00 +0800",
+  "is_sent": false,
+  "sent_at": null,
+  "related_old_topic": null,
+  "emotion_priority": {
+    "trigger": "愤怒、公共安全感、司法信任焦虑",
+    "intensity": "高",
+    "reason": "官方免职进展带来强公共讨论"
+  },
+  "new_progress_marker": "2026-05-02 中新网转载央视新闻确认已被免职",
+  "next_action": "用户复核标题与风险后可进入发布前配图确认"
+}

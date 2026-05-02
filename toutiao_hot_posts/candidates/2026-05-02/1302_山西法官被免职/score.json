@@ -1,0 +1,34 @@
+{
+  "priority": "A+",
+  "batch_rank": 1,
+  "timeliness_score": 9,
+  "emotion_priority": {
+    "trigger": "愤怒、公共安全感、司法信任焦虑",
+    "intensity": "高",
+    "reason": "今天出现免职进展，官方媒体可核验，普通人对办案安全和权力边界有强烈评论欲"
+  },
+  "homogeneity_risk": "中高：头条站内已有央视新闻置顶和多条评论型内容，但多数集中在事实复述和情绪宣泄，可从“免职不是终点、追责边界和办案安全感”切入。",
+  "scarcity_angle": "把焦点从“免职大快人心”转到“免职后公众追问什么、程序如何给普通人安全感”。",
+  "comment_desire_score": 9,
+  "ordinary_person_relevance_score": 9,
+  "conflict_score": 9,
+  "counterintuitive_score": 8,
+  "title_click_score": 8,
+  "account_fit_score": 9,
+  "risk_reward_score": 7,
+  "follow_up_value_score": 9,
+  "cover_click_power_score": 7,
+  "viral_probability": 0.86,
+  "scoring_version": "toutiao_xuan_ti_v2_2026-05-02",
+  "feature_weights": {
+    "timeliness": 0.18,
+    "emotion": 0.18,
+    "ordinary_relevance": 0.16,
+    "comment_desire": 0.16,
+    "scarcity": 0.12,
+    "risk": -0.1
+  },
+  "experiment_group": "14点官方通报强情绪题",
+  "prediction_basis": "官方进展+司法信任+评论区追问明确",
+  "recommended_action": "优先推荐14:00发布，注意措辞克制，不扩写未经证实细节。"
+}

@@ -1,0 +1,34 @@
+{
+  "priority": "A",
+  "batch_rank": 2,
+  "timeliness_score": 8,
+  "emotion_priority": {
+    "trigger": "愤怒、荒诞感、消费信任焦虑",
+    "intensity": "高",
+    "reason": "黄金、商场、品牌柜台、维权困难，直接命中普通人钱袋子"
+  },
+  "homogeneity_risk": "高：头条站内已有红星新闻置顶，阅读18.1万、评论868，热门讨论2891，覆盖充分；若发需避开单纯复述。",
+  "scarcity_angle": "不写“假金条离谱”，写“十几年后商户变更时，消费者该找谁负责”。",
+  "comment_desire_score": 9,
+  "ordinary_person_relevance_score": 10,
+  "conflict_score": 8,
+  "counterintuitive_score": 9,
+  "title_click_score": 8,
+  "account_fit_score": 8,
+  "risk_reward_score": 8,
+  "follow_up_value_score": 7,
+  "cover_click_power_score": 7,
+  "viral_probability": 0.8,
+  "scoring_version": "toutiao_xuan_ti_v2_2026-05-02",
+  "feature_weights": {
+    "timeliness": 0.15,
+    "emotion": 0.18,
+    "ordinary_relevance": 0.18,
+    "comment_desire": 0.18,
+    "scarcity": 0.1,
+    "risk": -0.08
+  },
+  "experiment_group": "14点消费维权强情绪题",
+  "prediction_basis": "钱袋子+品牌信任+维权责任边界，评论欲强",
+  "recommended_action": "可作为备选；因头条覆盖较高，不建议优先于山西法官免职。"
+}

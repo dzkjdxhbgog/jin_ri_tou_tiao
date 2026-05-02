@@ -1,0 +1,15 @@
+{
+  "status": "candidate_pending_review",
+  "created_at": "2026-05-02 13:02:24 +0800",
+  "updated_at": "2026-05-02 13:02:24 +0800",
+  "is_sent": false,
+  "sent_at": null,
+  "related_old_topic": null,
+  "emotion_priority": {
+    "trigger": "消费信任焦虑",
+    "intensity": "高",
+    "reason": "黄金投资和维权责任与普通人利益强相关"
+  },
+  "new_progress_marker": "2026-05-02 百度热搜仍在榜，头条站内持续讨论",
+  "next_action": "若选择发布，需补权威原始报道链接和截图，避免只引用头条自媒体长文。"
+}

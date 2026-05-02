@@ -1,0 +1,34 @@
+{
+  "priority": "A",
+  "batch_rank": 3,
+  "timeliness_score": 9,
+  "emotion_priority": {
+    "trigger": "荒诞感、公共安全焦虑、反常识",
+    "intensity": "中高",
+    "reason": "智能驾驶被误解为'可以喝酒的代驾'，直接触及驾驶安全底线和普通人出行安全感"
+  },
+  "homogeneity_risk": "中低：头条站内已有几篇报道但多集中在事件复述，缺少从'智驾认知误区+车企宣传责任'角度的分析",
+  "scarcity_angle": "不写'男子奇葩酒驾'，写'智能驾驶普及中的认知盲区：用户以为L2就是全自动驾驶'",
+  "comment_desire_score": 8,
+  "ordinary_person_relevance_score": 9,
+  "conflict_score": 8,
+  "counterintuitive_score": 9,
+  "title_click_score": 8,
+  "account_fit_score": 8,
+  "risk_reward_score": 8,
+  "follow_up_value_score": 7,
+  "cover_click_power_score": 6,
+  "viral_probability": 0.72,
+  "scoring_version": "toutiao_xuan_ti_v2_2026-05-02",
+  "feature_weights": {
+    "timeliness": 0.18,
+    "emotion": 0.15,
+    "ordinary_relevance": 0.18,
+    "comment_desire": 0.15,
+    "scarcity": 0.15,
+    "risk": -0.08
+  },
+  "experiment_group": "14点探索位：反常识公共安全题",
+  "prediction_basis": "五一出游季+智驾普及话题+认知误区，评论争议性中高",
+  "recommended_action": "探索位候选；若山西法官免职因故不能发，可替补14:00"
+}
