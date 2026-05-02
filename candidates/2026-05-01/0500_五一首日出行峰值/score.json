@@ -1,0 +1,13 @@
+{
+  "priority": "A-",
+  "rank_in_this_batch": 3,
+  "timeliness_score": 80,
+  "scarcity_note": "不写哪条路堵，写夜峰时段（4-30 16:30-19:40 + 5-1 凌晨）+ 新能源车占比同比涨33%带来的高速充电桩压力。",
+  "duplication_risk": "高。各地媒体都在发拥堵预警通稿，标题需明显错位。",
+  "emotion_priority": {
+    "trigger": "公共安全焦虑+节假实用",
+    "intensity": "中",
+    "reason": "3.44亿人次单日出行预测+部分时段严重拥堵预警"
+  },
+  "recommendation": "建议作为 14:00 备选或 17:00 备选；时机敏感，发帖前需重抓最新数据"
+}

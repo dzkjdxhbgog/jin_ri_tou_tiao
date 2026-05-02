@@ -1,0 +1,42 @@
+{
+  "status": "pending_review",
+  "created_at": "2026-04-27T14:24:07+08:00",
+  "updated_at": "2026-04-27T16:24:04+08:00",
+  "beijing_date": "2026-04-27",
+  "send_slots_beijing": [
+    "14:00",
+    "17:00",
+    "20:00"
+  ],
+  "sent": false,
+  "sent_at": null,
+  "priority": "B+",
+  "category": "商业职场类",
+  "topic": "董秘新规岗位调整",
+  "core_keywords": [
+    "董秘新规",
+    "上市公司",
+    "公司治理",
+    "兼任调整",
+    "证监会"
+  ],
+  "topic_fingerprint": "董秘新规|上市公司|兼任调整|公司治理",
+  "content_fingerprint": "77da95d68d0755c643abf09b851214db75b2d317249f572c07aa67196d1f6dab",
+  "timeliness": "4月24日规则发布后，4月27日热度继续扩散。",
+  "duplication_risk": "中。财经号会写规则解读，稀缺点应写公司治理和岗位真实权责。",
+  "scarcity_angle": "不写“董秘空缺”噱头，写董秘不是私人秘书，而是上市公司治理的报警器。",
+  "related_old_topic": null,
+  "image_review": {
+    "usable": [
+      "images/news_01_csrc_official_notice.png",
+      "images/news_02_21jingji_three_paths.png"
+    ],
+    "rejected": [
+      "images/cover.png",
+      "images/news_01.png",
+      "images/news_02.jpg"
+    ],
+    "reason": "旧图已删除；新图来自证监会官网公告和21经济网规则解读，避免泛财经配图。"
+  },
+  "notes": "仅候选草稿，等待用户复核后再进入发布流程。"
+}

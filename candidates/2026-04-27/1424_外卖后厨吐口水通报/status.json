@@ -1,0 +1,42 @@
+{
+  "status": "pending_review",
+  "created_at": "2026-04-27T14:24:07+08:00",
+  "updated_at": "2026-04-27T16:24:04+08:00",
+  "beijing_date": "2026-04-27",
+  "send_slots_beijing": [
+    "14:00",
+    "17:00",
+    "20:00"
+  ],
+  "sent": false,
+  "sent_at": null,
+  "priority": "A",
+  "category": "社会监督类",
+  "topic": "外卖后厨吐口水通报",
+  "core_keywords": [
+    "佛山",
+    "外卖后厨",
+    "吐口水",
+    "无堂食外卖",
+    "食品安全"
+  ],
+  "topic_fingerprint": "佛山|外卖后厨|吐口水|无堂食外卖|官方通报",
+  "content_fingerprint": "7811a5014a15511c51ea007fb2e0c08139c5d0dff4d5fd0d279b7808f4ed49c5",
+  "timeliness": "今天有官方通报和处置动作，属于旧视频发酵后的新进展。",
+  "duplication_risk": "中高。偷拍视频式标题很多，稀缺点应放在无堂食外卖监管和明厨亮灶。",
+  "scarcity_angle": "不写猎奇细节，写平台、商家、监管如何让“看不见的厨房”可追责。",
+  "related_old_topic": null,
+  "image_review": {
+    "usable": [
+      "images/news_01_sina_notice_source.png",
+      "images/news_02_sina_recording.jpg"
+    ],
+    "rejected": [
+      "images/cover.png",
+      "images/news_01.png",
+      "images/news_02.jpg"
+    ],
+    "reason": "旧图已删除；新图分别对应4月27日官方通报事实和视频发酵背景。"
+  },
+  "notes": "仅候选草稿，等待用户复核后再进入发布流程。"
+}

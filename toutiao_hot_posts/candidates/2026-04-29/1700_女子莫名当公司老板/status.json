@@ -1,0 +1,30 @@
+{
+  "topic": "女子莫名当上5家公司老板",
+  "folder": "1700_女子莫名当公司老板",
+  "date": "2026-04-29",
+  "planned_post_time": "17:00",
+  "status": "draft",
+  "created_at": "2026-04-29T07:00:00+08:00",
+  "updated_at": "2026-04-29T07:00:00+08:00",
+  "is_sent": false,
+  "sent_at": null,
+  "priority": "A",
+  "emotion_priority": {
+    "emotions": ["恐惧", "愤怒", "公共安全焦虑"],
+    "intensity": "高",
+    "reason": "普通人不去查根本不知道自己名下已有公司，强烈触发'这可能发生在我身上'的恐惧感；官方通报出现，时效性强"
+  },
+  "coverage_check": {
+    "platform": "今日头条",
+    "keyword": "陕西女子莫名当上成都5家公司老板",
+    "article_count": "6+",
+    "latest_article_time": "3小时前",
+    "coverage_level": "中高",
+    "notes": "光明网、央视网等头部媒体均已跟进，但均为新闻播报，机制/风险/自查路径角度空白"
+  },
+  "sources": ["大象新闻", "成都市武侯区行政审批局通报", "光明网", "央视网"],
+  "related_old_topics": null,
+  "is_new_development": false,
+  "images_ready": false,
+  "archive_path": null
+}

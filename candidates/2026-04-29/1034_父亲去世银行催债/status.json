@@ -1,0 +1,30 @@
+{
+  "status": "pending_review",
+  "created_at": "2026-04-29T10:34:58+08:00",
+  "updated_at": "2026-04-29T10:34:58+08:00",
+  "beijing_date": "2026-04-29",
+  "send_slots_beijing": ["14:00", "17:00", "20:00"],
+  "sent": false,
+  "sent_at": null,
+  "priority": "A",
+  "category": "消费者权益类",
+  "topic": "父亲去世银行催债",
+  "core_keywords": ["平安银行", "信用卡", "已故持卡人", "催债", "本金滚利", "清零"],
+  "topic_fingerprint": "平安银行|已故持卡人|信用卡|12年计息|欠款清零",
+  "content_fingerprint": "",
+  "timeliness": "4月27日起发酵，4月28日银行清零形成二次传播高潮，4月29日舆论仍在扩散。",
+  "duplication_risk": "中。'父亲去世银行催债'类标题同质化高，差异点在账户管理漏洞角度。",
+  "scarcity_angle": "不做法律科普，聚焦：死亡12年账户为何仍可计息+家属无法查账+追问即清零三个机制漏洞。",
+  "emotion_priority": {
+    "emotion": "愤怒+荒诞感",
+    "intensity": "高",
+    "reason": "已故12年仍计息属监管漏洞，银行拒查账单+追问后突然清零的行为本身具有强烈荒诞感，直接触发普通人对金融机构信任危机的焦虑。"
+  },
+  "related_old_topic": null,
+  "image_review": {
+    "usable": [],
+    "rejected": [],
+    "reason": "待采集图片后更新"
+  },
+  "notes": "仅候选草稿，等待用户复核后再进入发布流程。"
+}

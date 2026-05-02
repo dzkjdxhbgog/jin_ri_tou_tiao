@@ -1,0 +1,30 @@
+{
+  "status": "pending_review",
+  "created_at": "2026-04-29T10:34:58+08:00",
+  "updated_at": "2026-04-29T10:34:58+08:00",
+  "beijing_date": "2026-04-29",
+  "send_slots_beijing": ["14:00", "17:00", "20:00"],
+  "sent": false,
+  "sent_at": null,
+  "priority": "A",
+  "category": "反腐/国企类",
+  "topic": "格力董事长投案",
+  "core_keywords": ["周乐伟", "格力集团", "主动投案", "珠海纪委", "国资", "反腐"],
+  "topic_fingerprint": "周乐伟|格力集团|主动投案|涉嫌严重违纪违法|珠海",
+  "content_fingerprint": "",
+  "timeliness": "4月28日官方首发，4月29日热度扩散中，属当日新进展。",
+  "duplication_risk": "中。反腐类内容同质化，差异点在格力集团vs格力电器主体区分和国资平台影响边界。",
+  "scarcity_angle": "区分格力集团（国资平台）与格力电器（上市公司），解释周乐伟角色定位，解读'主动投案'在反腐语境中的含义。",
+  "emotion_priority": {
+    "emotion": "公众对国企反腐的持续关注 + 知名品牌关联",
+    "intensity": "中高",
+    "reason": "格力是消费者高知名度品牌，前董事长落马自带传播势能；'接替董明珠'的标签进一步放大热度。"
+  },
+  "related_old_topic": null,
+  "image_review": {
+    "usable": [],
+    "rejected": [],
+    "reason": "待浏览器截图后更新"
+  },
+  "notes": "仅候选草稿，等待用户复核后再进入发布流程。格力电器股价影响需关注，发布时间建议避开盘中。"
+}

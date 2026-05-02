@@ -1,0 +1,13 @@
+{
+  "priority": "B+",
+  "rank_in_this_batch": 5,
+  "timeliness_score": 65,
+  "scarcity_note": "不堆条文，写哪两天必须三倍 + 调休抵扣到底合不合法 + 不发怎么投诉，配劳动监察投诉路径。",
+  "duplication_risk": "高。每年五一同题材反复出现。",
+  "emotion_priority": {
+    "trigger": "共情普通打工人+实用维权",
+    "intensity": "中弱",
+    "reason": "节首日是讨论加班工资的最佳窗口，但不构成新事实"
+  },
+  "recommendation": "B+，仅做 20:00 备选机动"
+}

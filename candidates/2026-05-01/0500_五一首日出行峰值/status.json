@@ -1,0 +1,16 @@
+{
+  "topic": "五一首日3.44亿人次出行高速预警",
+  "status": "candidate_pending_review",
+  "created_at": "2026-05-01T05:00:00+08:00",
+  "updated_at": "2026-05-01T05:00:00+08:00",
+  "sent": false,
+  "sent_at": null,
+  "linked_old_topic": null,
+  "new_progress_marker": "5-1 节首日实际峰值数据 + 新能源车高速充电压力",
+  "emotion_priority": {
+    "trigger": "公共安全焦虑+节假实用",
+    "intensity": "中",
+    "uplift_reason": "节首日时机+多部门官方数据+新能源车结构性变化"
+  },
+  "next_action": "14:00 档发帖前必须重抓一次最新数据，确认实际客流是否超预测"
+}

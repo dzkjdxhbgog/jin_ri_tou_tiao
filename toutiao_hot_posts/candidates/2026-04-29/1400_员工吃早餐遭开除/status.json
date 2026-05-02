@@ -1,0 +1,30 @@
+{
+  "topic": "员工上班吃早餐遭开除获赔8000元",
+  "folder": "1400_员工吃早餐遭开除",
+  "date": "2026-04-29",
+  "planned_post_time": "14:00",
+  "status": "draft",
+  "created_at": "2026-04-29T06:00:00+08:00",
+  "updated_at": "2026-04-29T06:00:00+08:00",
+  "is_sent": false,
+  "sent_at": null,
+  "priority": "A+",
+  "emotion_priority": {
+    "emotions": ["愤怒", "共情", "荒诞感"],
+    "intensity": "高",
+    "reason": "吃早餐这种日常行为被用于辞退，强烈触发不公感；劳动节前一周发布，时效性强；法律机制角度可讨论"
+  },
+  "coverage_check": {
+    "platform": "今日头条",
+    "keyword": "员工吃早餐遭开除获赔8000元",
+    "article_count": "≤3",
+    "latest_article_time": "6小时以上前",
+    "coverage_level": "低",
+    "notes": "29分钟内才上热搜，属于抢先窗口"
+  },
+  "sources": ["羊城晚报", "深圳政法", "第一现场"],
+  "related_old_topics": null,
+  "is_new_development": false,
+  "images_ready": true,
+  "archive_path": null
+}

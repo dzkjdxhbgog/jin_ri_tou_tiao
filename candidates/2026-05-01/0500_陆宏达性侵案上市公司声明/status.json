@@ -1,0 +1,16 @@
+{
+  "topic": "陆宏达涉性侵案上市公司声明",
+  "status": "candidate_pending_review",
+  "created_at": "2026-05-01T05:00:00+08:00",
+  "updated_at": "2026-05-01T05:00:00+08:00",
+  "sent": false,
+  "sent_at": null,
+  "linked_old_topic": null,
+  "new_progress_marker": "4-30 上市公司子公司首次声明案件属实并确认羁押地点",
+  "emotion_priority": {
+    "trigger": "愤怒+反差+信任崩塌",
+    "intensity": "强",
+    "uplift_reason": "今日新进展+事实可核验+公共讨论价值（信披监管+投资者保护）"
+  },
+  "next_action": "等待用户确认后再写 titles.txt 与 body.txt"
+}

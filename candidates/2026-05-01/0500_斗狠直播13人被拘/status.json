@@ -1,0 +1,16 @@
+{
+  "topic": "浙江斗狠低俗直播13人被拘",
+  "status": "candidate_pending_review",
+  "created_at": "2026-05-01T05:00:00+08:00",
+  "updated_at": "2026-05-01T05:00:00+08:00",
+  "sent": false,
+  "sent_at": null,
+  "linked_old_topic": null,
+  "new_progress_marker": "4-30 央视披露浙江公安网安部门跨区域查办，13人行政拘留",
+  "emotion_priority": {
+    "trigger": "荒诞+公共秩序焦虑+平台失责",
+    "intensity": "中强",
+    "uplift_reason": "今日新进展+官方处置已落地+涉公共空间秩序"
+  },
+  "next_action": "等待用户确认后再写 titles.txt 与 body.txt；正文前需补抓央视原始通报 URL"
+}

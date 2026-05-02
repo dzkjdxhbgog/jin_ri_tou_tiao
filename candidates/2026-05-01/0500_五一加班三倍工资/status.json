@@ -1,0 +1,16 @@
+{
+  "topic": "五一加班三倍工资不能用调休抵扣",
+  "status": "candidate_pending_review",
+  "created_at": "2026-05-01T05:00:00+08:00",
+  "updated_at": "2026-05-01T05:00:00+08:00",
+  "sent": false,
+  "sent_at": null,
+  "linked_old_topic": null,
+  "new_progress_marker": null,
+  "emotion_priority": {
+    "trigger": "共情普通打工人+实用维权",
+    "intensity": "中弱",
+    "uplift_reason": "节首日时机，但无新事实进展"
+  },
+  "next_action": "若 20:00 档其他题材时效落空，可启用本题做收官；落题前必须找到人社部最新口径与调休抵扣判例"
+}
